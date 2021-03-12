@@ -1,0 +1,16 @@
+{
+   "people":[
+      {
+         "name":"Juan Camilo",
+         "lastname":"Cardona Calderon",
+         "phoneNumber":"2345676543",
+         "age":22
+      },
+      {
+         "name":"Cristian Daniel",
+         "lastname":"Morales Villada",
+         "phoneNumber":"5555567633",
+         "age":23
+      }
+   ]
+}
